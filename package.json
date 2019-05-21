@@ -1,0 +1,24 @@
+{
+  "name": "fornof-example",
+  "version": "1.0.0",
+  "description": "This is a demo of Node.js skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fornof/charter-node.git"
+  },
+  "keywords": [
+    "charter",
+    "node",
+    "cidr"
+  ],
+  "author": "Robert Fornof",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fornof/charter-node/issues"
+  },
+  "homepage": "https://github.com/fornof/charter-node#readme"
+}
